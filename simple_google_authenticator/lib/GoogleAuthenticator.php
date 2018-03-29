@@ -145,7 +145,7 @@ class GoogleAuthenticator
      *
      * @param int $length
      *
-     * @return PHPGangsta_GoogleAuthenticator
+     * @return GoogleAuthenticator
      */
     public function setCodeLength($length)
     {
